@@ -1,8 +1,9 @@
-### Hi there 👋
-
-<!--
-**fauzan1892/fauzan1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 
+My name is Fauzan Falah. I am a Web Developer lives in Bekasi City Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
+:pencil: I like blogging as well. You can read [my blog](https://www.codekop.com/).
+:construction_worker: I am looking for new PHP remote work. My resume is [online](https://fauzan.codekop.com/)
+/* 
+**fauzan1892/fauzan1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ */
