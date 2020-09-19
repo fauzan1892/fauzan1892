@@ -6,3 +6,6 @@ My name is Fauzan Falah. I am a Fullstack Web Developer with PHP and live in Bek
 <br>
 <br>
 :construction_worker: I am looking for new PHP remote work. My resume is [online](https://fauzan.codekop.com/)
+<br>
+[![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=fauzan1892)](https://github.com/anuraghazra/github-readme-stats)
+
