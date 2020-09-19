@@ -9,4 +9,7 @@ My name is Fauzan Falah. I am a Fullstack Web Developer with PHP and live in Bek
 <br>
 <br>
 ![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=fauzan1892&count_private=true&show_icons=true&theme=radical)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892)](https://github.com/anuraghazra/github-readme-stats)
 
