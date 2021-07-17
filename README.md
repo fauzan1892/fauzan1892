@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 My name is Fauzan Falah. I am a Fullstack Web Developer with PHP and live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 <br>
 <br>
