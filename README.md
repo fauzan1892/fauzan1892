@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=fauzan1892)
 ![image](https://raw.githubusercontent.com/fauzan1892/fauzan1892/master/assets/img/anang-min.jpg)
 <br>
 <br>
