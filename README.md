@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=fauzan1892)
 ![image](https://raw.githubusercontent.com/fauzan1892/fauzan1892/master/assets/img/anang-min.jpg)
 <br>
 <br>
 ## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=fauzan1892)
 My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 <br>
 <br>
