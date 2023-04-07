@@ -26,6 +26,8 @@ My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi 
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
 ![image](https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white)
+![image](https://img.shields.io/badge/ReactJS-black.svg?style=for-the-badge&logo=NextJS&logoColor=white)
+![image](https://img.shields.io/badge/NextJS-black.svg?style=for-the-badge&logo=NextJS&logoColor=white)
 ![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
