@@ -34,6 +34,6 @@ My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi 
 ![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
 ### My Github Stats :chart_with_upwards_trend:
-![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=fauzan1892&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=fauzan1892&theme=dark&card_width=520)
+
 
