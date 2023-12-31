@@ -11,7 +11,10 @@ My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi 
 <br>
 <br>
 :construction_worker: My resume is [online](https://fauzan.codekop.com/)
-<br><br>
+
+## 📊 Stats
+Here's a summary of my recent **`coding`** activities:
+
 <!--START_SECTION:waka-->
 
 ```txt
