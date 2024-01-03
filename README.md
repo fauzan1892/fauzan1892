@@ -18,11 +18,12 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 31 December 2023
+From: 09 March 2023 - To: 01 January 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 30 mins
 
-No activity tracked
+PHP    1 hr 26 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   95.79 %
+Text   3 mins          >------------------------   04.21 %
 ```
 
 <!--END_SECTION:waka-->
