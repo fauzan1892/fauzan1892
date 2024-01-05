@@ -18,12 +18,14 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 02 January 2024
+From: 09 March 2023 - To: 03 January 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 57 mins
 
-PHP    1 hr 26 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   95.79 %
-Text   3 mins          >------------------------   04.21 %
+PHP             1 hr 37 mins    >>>>>>>>>>>>>>>>>>>>>----   82.74 %
+SQL             14 mins         >>>----------------------   12.53 %
+Text            3 mins          >------------------------   03.24 %
+Apache Config   1 min           -------------------------   01.49 %
 ```
 
 <!--END_SECTION:waka-->
