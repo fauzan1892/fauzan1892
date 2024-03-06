@@ -18,7 +18,7 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 03 March 2024
+From: 09 March 2023 - To: 04 March 2024
 
 Total Time: 85 hrs 9 mins
 
