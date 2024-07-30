@@ -18,19 +18,19 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 27 July 2024
+From: 09 March 2023 - To: 28 July 2024
 
-Total Time: 319 hrs 27 mins
+Total Time: 323 hrs 59 mins
 
-PHP              295 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.58 %
-Blade Template   12 hrs 31 mins  >------------------------   03.92 %
-JSON             2 hrs 43 mins   -------------------------   00.85 %
-SQL              2 hrs 20 mins   -------------------------   00.73 %
-CSS              1 hr 48 mins    -------------------------   00.57 %
-Apache Config    1 hr 31 mins    -------------------------   00.48 %
+PHP              299 hrs 21 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.40 %
+Blade Template   13 hrs 6 mins   >------------------------   04.04 %
+JSON             3 hrs 3 mins    -------------------------   00.95 %
+SQL              2 hrs 20 mins   -------------------------   00.72 %
+CSS              1 hr 48 mins    -------------------------   00.56 %
+Apache Config    1 hr 31 mins    -------------------------   00.47 %
 JavaScript       1 hr 25 mins    -------------------------   00.44 %
 Bash             31 mins         -------------------------   00.16 %
-HTML             30 mins         -------------------------   00.16 %
+HTML             30 mins         -------------------------   00.15 %
 Text             9 mins          -------------------------   00.05 %
 ```
 
