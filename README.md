@@ -56,7 +56,7 @@ Apache Config              1 hr 47 mins    -------------------------   00.31 %
 ![image](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
-### My Github Stats :chart_with_upwards_trend:
-<!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=fauzan1892&theme=dark&card_width=520) -->
+<!-- ### My Github Stats :chart_with_upwards_trend:
+![image](https://github-readme-streak-stats.herokuapp.com/?user=fauzan1892&theme=dark&card_width=520) -->
 
 
