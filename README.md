@@ -18,20 +18,20 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 16 October 2025
+From: 09 March 2023 - To: 18 October 2025
 
-Total Time: 1,700 hrs 56 mins
+Total Time: 1,711 hrs 51 mins
 
-PHP                        1,130 hrs 31 mins>>>>>>>>>>>>>>>>>--------   66.46 %
-JavaScript                 330 hrs 16 mins >>>>>--------------------   19.42 %
-Blade Template             130 hrs 50 mins >>-----------------------   07.69 %
-Vue.js                     23 hrs 59 mins  -------------------------   01.41 %
-JSON                       14 hrs          -------------------------   00.82 %
-SQL                        13 hrs 47 mins  -------------------------   00.81 %
+PHP                        1,137 hrs 6 mins>>>>>>>>>>>>>>>>>--------   66.43 %
+JavaScript                 330 hrs 18 mins >>>>>--------------------   19.30 %
+Blade Template             130 hrs 52 mins >>-----------------------   07.65 %
+Vue.js                     27 hrs 48 mins  -------------------------   01.62 %
+JSON                       14 hrs 9 mins   -------------------------   00.83 %
+SQL                        13 hrs 48 mins  -------------------------   00.81 %
 Bash                       9 hrs 54 mins   -------------------------   00.58 %
 HTML                       8 hrs 33 mins   -------------------------   00.50 %
-CSS                        7 hrs 26 mins   -------------------------   00.44 %
-Other                      6 hrs 3 mins    -------------------------   00.36 %
+CSS                        7 hrs 26 mins   -------------------------   00.43 %
+Other                      6 hrs 3 mins    -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
