@@ -160,11 +160,14 @@ My current interests include:
 ### Let's Connect
 If you are interested in web development, business applications, AI automation, or collaboration, feel free to connect with me.
 
-🌐 Blog: codekop.com
-🧑‍💻 Resume: fauzandev.my.id
-🛠️ Development Lab: codekopdev.my.id
+- 🌐 Blog: codekop.com
+- 🧑‍💻 Resume: fauzandev.my.id
+- 🛠️ Development Lab: codekopdev.my.id
+
 <div align="center">
-Building useful software, one project at a time.
+
+  ## Building useful software, one project at a time.
+
 </div>
 
 
