@@ -5,6 +5,7 @@
 ### Fullstack Developer • Product Builder • Blogger • AI Enthusiast
 
 ![](https://komarev.com/ghpvc/?username=fauzan1892)
+<br>
 [![Website](https://img.shields.io/badge/Website-codekop.com-0e75b6?style=flat&logo=google-chrome&logoColor=white)](https://www.codekop.com/)
 [![Resume](https://img.shields.io/badge/Resume-fauzandev.my.id-111827?style=flat&logo=readme&logoColor=white)](https://fauzandev.my.id/)
 
