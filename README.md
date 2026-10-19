@@ -2,8 +2,9 @@
 
 # Hi, I'm Fauzan Falah 👋
 
-### Fullstack Developer • Product Builder • Blogger • AI Enthusiast
+### Fullstack Engineer • Product Builder • Blogger • AI Enthusiast
 
+## Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=fauzan1892)
 <br>
 [![Website](https://img.shields.io/badge/Website-codekop.com-0e75b6?style=flat&logo=google-chrome&logoColor=white)](https://www.codekop.com/)
