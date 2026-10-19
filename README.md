@@ -12,7 +12,6 @@
 [![Resume](https://img.shields.io/badge/Resume-fauzandev.my.id-111827?style=flat&logo=readme&logoColor=white)](https://fauzandev.my.id/)
 
 <img src="https://raw.githubusercontent.com/fauzan1892/fauzan1892/master/assets/img/anang-min.jpg" width="220" alt="Fauzan Falah">
----
 
 ## About Me
 
