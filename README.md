@@ -136,9 +136,6 @@ Go                         31 hrs 48 mins        -------------------------   00.
 
 <!--END_SECTION:waka-->
 
-### GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fauzan1892&show_icons=true&theme=transparent&hide_border=true" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892&layout=compact&theme=transparent&hide_border=true" height="165"> </div>
-
 ### Projects and Interests
 My current interests include:
 
